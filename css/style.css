@@ -1,0 +1,32 @@
+body {
+    background: rgb(226, 161, 161);
+    margin-left: 30px;
+    margin-left: 50px;
+}
+
+header{
+    margin-top: 20px;
+}
+
+h1 {
+    color: purple;
+    font-family: verdana;
+}
+p {
+    font-size: 16px;
+    font-family: tahoma;
+}
+
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_teste {
+    margin-bottom: 20px;
+    width: 150px;
+}
+
+.logo{
+    width: 100px;
+}
